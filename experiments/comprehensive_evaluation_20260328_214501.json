@@ -1,0 +1,1744 @@
+{
+  "timestamp": "2026-03-28T21:45:01.607332",
+  "full_dataset_evaluation": {
+    "summary": {
+      "total_samples": 200,
+      "matched_samples": 200,
+      "unmatched_samples": 0,
+      "avg_exact_match": 0.285,
+      "avg_f1": 0.4270292307508444,
+      "unmatched_ids": []
+    },
+    "detailed_results": [
+      {
+        "id": "5a70f4c45542994082a3e437",
+        "question": "which italian-american composer and librettist wrote the english language opera, maria golovin?",
+        "prediction": "Gian Carlo Menotti",
+        "ground_truth": "Gian Carlo Menotti",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a70f0a75542994082a3e403",
+        "question": "which dialect spoken in the province of scania calls spettekaka, \"spiddekaga\"?",
+        "prediction": "Scanian dialect",
+        "ground_truth": "Scanian dialects",
+        "exact_match": 0,
+        "f1": 0.5
+      },
+      {
+        "id": "5a70f9335542994082a3e46a",
+        "question": "which magazine is published more in a year, essence or alt for damerne?",
+        "prediction": "Alt for Damerne",
+        "ground_truth": "ALT for Damerne",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a70f1685542994082a3e40f",
+        "question": "which piece did ludwig van beethoven publish in 1801 that was dedicated to count moritz von fries? ",
+        "prediction": "After reviewing the available information, there is no historically documented evidence that Ludwig van Beethoven published a piece in 1801 dedicated to Count Moritz von Fries. The dedications attributed to Count Moritz von Fries in earlier discussions (such as the Spring Sonata, Violin Sonata No. 4, and Symphony No. 1) are not supported by reliable historical records. Count Moritz von Fries was primarily a patron of Beethoven in later years, and his dedications typically appear in works from the early 19th century (e.g., Op. 77, Op. 91). Therefore, the answer to the original question is that no such piece from 1801 is known to exist.",
+        "ground_truth": "Symphony No. 7",
+        "exact_match": 0,
+        "f1": 0.037037037037037035
+      },
+      {
+        "id": "5a70eee85542994082a3e3f0",
+        "question": "which group of people in west africa with significant populations in ghana, ivory coast, liberia and sierra leone use the ida?",
+        "prediction": "Yoruba",
+        "ground_truth": "The Yoruba",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a7100435542994082a3e4a3",
+        "question": " are finding kraftland and shikashika both frozen drinks?",
+        "prediction": "No, Kraftland is not a frozen drink, but Shikashika is.",
+        "ground_truth": "Shikashika is a shaved ice drink",
+        "exact_match": 0,
+        "f1": 0.37499999999999994
+      },
+      {
+        "id": "5a70f4695542994082a3e435",
+        "question": "which canal was built between 1836 and 1847, washington city canal or whitewater canal?",
+        "prediction": "Both canals",
+        "ground_truth": "The Whitewater Canal",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a70f0e75542994082a3e408",
+        "question": "which of these universities, northwestern university or johns hopkins university, have a campus outside of the united states territories?",
+        "prediction": "Northwestern University",
+        "ground_truth": "with other campuses located in Chicago and Doha, Qatar",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a70f39c5542994082a3e429",
+        "question": "what is the name of the independent candidate in maine's 2010 gubernatorial race who finished ahead of libby mitchell?",
+        "prediction": "Eliot Cutler",
+        "ground_truth": "Eliot Cutler",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a71095e5542994082a3e4f3",
+        "question": "what is the name of bruce willis's character in unbreakable?",
+        "prediction": "James Urbanski",
+        "ground_truth": "David Dunn",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7103b35542994082a3e4c0",
+        "question": "which mountain, masherbrum or khunyang chhish, is a taller mountain?",
+        "prediction": "Khunyang Chhish",
+        "ground_truth": "Khunyang Chhish",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a70f6425542994082a3e44c",
+        "question": "renamed in 2014, what was the vehicle offered as a prize to contestants on the first season of the amazing race canada?",
+        "prediction": "Chevrolet Corvette",
+        "ground_truth": "Chevrolet Corvette Stingrays",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a7108fa5542994082a3e4ef",
+        "question": "which battle, the battle of cold harbor, or the second battle of bull run, was fought first?",
+        "prediction": "The Second Battle of Bull Run",
+        "ground_truth": "Second Battle of Bull Run",
+        "exact_match": 0,
+        "f1": 0.9090909090909091
+      },
+      {
+        "id": "5a70f11a5542994082a3e40b",
+        "question": "which dog breed, the schapendoes or the bull terrier, has its origins in a greater number of other dog breeds?",
+        "prediction": "Bull terrier",
+        "ground_truth": "Bull Terrier",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a70ff335542994082a3e49c",
+        "question": "which indian actress who earned filmfare award for best female debut in \"refugee\" acted in k3g movie?",
+        "prediction": "Kareena Kapoor",
+        "ground_truth": "Kareena Kapoor Khan",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a7109e95542994082a3e4fa",
+        "question": "what town did sean robert francis play in as part of the most successful club in the republic of ireland?",
+        "prediction": "Dublin",
+        "ground_truth": "Tallaght, South Dublin",
+        "exact_match": 0,
+        "f1": 0.5
+      },
+      {
+        "id": "5a710d155542994082a3e520",
+        "question": "who was the defense counsel of a german woman who underwent catholic exorcism rites during the year before her death?",
+        "prediction": "The German woman who underwent Catholic exorcism rites the year before her death was Anneliese Michel, who died in 1983 after the rites were performed in 1982. Legal proceedings, including accusations of negligent homicide, followed her death. However, the identity of her defense counsel remains unclear, as historical records do not reliably document this information. The earlier identification of Laura Linney (an actress) as the defense counsel is incorrect and likely stems from confusion with fictional portrayals, such as in *The Exorcism of Emily Rose*. Reliable sources do not confirm the involvement of any specific defense counsel in this case.",
+        "ground_truth": "Erich Schmidt-Leichner",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a71148b5542994082a3e567",
+        "question": "what was the population of the city where penobscot marine museum is located?",
+        "prediction": "2,615 (2010 census)",
+        "ground_truth": "The population was 2,615",
+        "exact_match": 0,
+        "f1": 0.28571428571428575
+      },
+      {
+        "id": "5a710bb15542994082a3e50d",
+        "question": "which american professional poker player also starred in the 2015 movie \"extraction\"?",
+        "prediction": "Dan Bilzerian",
+        "ground_truth": "Dan Bilzerian",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7115475542994082a3e56d",
+        "question": "in what movie did a kenyan-mexican actress, who graduated from hampshire college, star in in 2015?",
+        "prediction": "Star Wars: The Force Awakens",
+        "ground_truth": "Star Wars: The Force Awakens",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7119095542994082a3e589",
+        "question": "who is current vice captain of the english test team, jamie atkinson or ben stokes?",
+        "prediction": "Ben Stokes",
+        "ground_truth": "Ben Stokes",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a71166d5542994082a3e576",
+        "question": "which battle occurred first, the battle of manila or the battle of guam?",
+        "prediction": "The Battle of Guam occurred first.",
+        "ground_truth": "Battle of Guam",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a711bb55542994082a3e597",
+        "question": "steven covey, the father of sean covey, wrote what similar sounding title to the 7 habits of highly effective teens?",
+        "prediction": "The 7 Habits of Highly Effective Families",
+        "ground_truth": "The 7 Habits of Highly Effective People",
+        "exact_match": 0,
+        "f1": 0.8571428571428571
+      },
+      {
+        "id": "5a7119f75542994082a3e58e",
+        "question": "when was the composer of \"persian surgery dervishes\" born?",
+        "prediction": "1922",
+        "ground_truth": "June 24, 1935",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a711cb45542994082a3e59f",
+        "question": "who has won more grand slam women's doubles titles, lisa raymond or liezel huber?",
+        "prediction": "Lisa Raymond",
+        "ground_truth": "Liezel Huber",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a71231a5542994082a3e5c4",
+        "question": "what edible, juicy fruit is grown on a deciduous tree called 'pesco' in italian?",
+        "prediction": "peach",
+        "ground_truth": "peach",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a710a1e5542994082a3e4fd",
+        "question": "what is the genus of the viral disease that has symptoms such as fever, chills, loss of appetite, nausea, muscle pains, and headaches, and has a chance of causing liver damage?",
+        "prediction": "Nairovirus",
+        "ground_truth": "Flavivirus",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a710a915542994082a3e504",
+        "question": "which of these men, scott treleaven and edmund mortimer, is credited with working in both films and photography?",
+        "prediction": "Scott Treleaven",
+        "ground_truth": "Scott Treleaven",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a711c535542994082a3e59b",
+        "question": "albanians in montenegro which make up 4.91 of the county's total population could be members of the albanian coalation perspect which is a what? ",
+        "prediction": "Albanian political party",
+        "ground_truth": "Albanian political party in Montenegro",
+        "exact_match": 0,
+        "f1": 0.7499999999999999
+      },
+      {
+        "id": "5a71214d5542994082a3e5b9",
+        "question": "what production company was founded by george balanchine to create a live stage version of the 1942 film casablanca?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "The Los Angeles Dance Theater",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7128b05542994082a3e5f2",
+        "question": "which film was released first, laura's star or wonder woman?",
+        "prediction": "Laura's Star",
+        "ground_truth": "Laura's Star",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a711ef85542994082a3e5ac",
+        "question": "which hospital, the psychiatric institute of washington or howard university hospital, is known for serving the african american community including former slaves?",
+        "prediction": "Howard University Hospital",
+        "ground_truth": "Howard University Hospital",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7125b95542994082a3e5d5",
+        "question": "which town has a greater population as of the 2010 census, minden, nevada or gardnerville, nevada?",
+        "prediction": "Gardnerville, Nevada",
+        "ground_truth": "Gardnerville",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7129685542994082a3e5fa",
+        "question": "which \"blackzilians\" fighter is currently competing in the middleweight division of ultimate fighting championship?",
+        "prediction": "Paulo Borrachinha, David Branch, Vitor Belfort, Rashad Evans",
+        "ground_truth": "Vitor Belfort",
+        "exact_match": 0,
+        "f1": 0.2
+      },
+      {
+        "id": "5a71278c5542994082a3e5e2",
+        "question": "what north carolina native did danja produce songs for?",
+        "prediction": "J. Cole",
+        "ground_truth": "J. Cole",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a71299e5542994082a3e5fe",
+        "question": "drisheen is what type of product made in ireland and other parts of europe?",
+        "prediction": "blood pudding",
+        "ground_truth": "Black pudding",
+        "exact_match": 0,
+        "f1": 0.5
+      },
+      {
+        "id": "5a712beb5542994082a3e61c",
+        "question": "what golden globe award actor starred in the film little fugitive? ",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Peter Dinklage",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a712fca5542994082a3e641",
+        "question": "renáta tomanová and larisa neiland are former professional athletes for what sport?",
+        "prediction": "Tennis",
+        "ground_truth": "professional tennis",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a712af15542994082a3e614",
+        "question": "which show that premiered in may 2011 is hosted by someone with the birth name richard kirschner?",
+        "prediction": "My Cat From Hell",
+        "ground_truth": "My Cat from Hell",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7125165542994082a3e5d0",
+        "question": "which composer was a french romantic composer in the 1800's, hector berlioz or gaetano donizetti?",
+        "prediction": "Hector Berlioz",
+        "ground_truth": "Louis-Hector Berlioz",
+        "exact_match": 0,
+        "f1": 0.5
+      },
+      {
+        "id": "5a712c4b5542994082a3e622",
+        "question": "what heritage site, known for a british explorer, is listed seventeen seventy australia?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Captain Cook's Landing Place",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a71224f5542994082a3e5c1",
+        "question": "when was the actor born who starred in nambia: the struggle for liberation and played roger murtaugh in the \"lethal weapon\" film series?",
+        "prediction": "July 22, 1946",
+        "ground_truth": "July 22, 1946",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a712e895542994082a3e636",
+        "question": "c.j. hunter was tested positive for which type of injected steroid before he competed in the 2000 summer olympic games?",
+        "prediction": "nandrolone",
+        "ground_truth": "anabolic–androgenic steroid (AAS)",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a713b325542994082a3e6b5",
+        "question": "what was the capital of india when the taj mahal was commissioned?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Agra",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7136e25542994082a3e67e",
+        "question": "what hong kong actor born in 1980 will star in \"heart and greed\"?",
+        "prediction": "The Hong Kong actor born in 1980 who stars in \"Heart and Greed\" is **Bosco Wong**.",
+        "ground_truth": "Bosco Wong Chung-chak",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7133565542994082a3e65c",
+        "question": "what kentucky county has a population of 60,316 and features the lake louisvilla neighborhood?",
+        "prediction": "Oldham County, Kentucky, has a population of 60,316 (as of the 2010 census) and features the Lake Louisvilla neighborhood. This county satisfies both criteria of your question.",
+        "ground_truth": "Oldham County",
+        "exact_match": 0,
+        "f1": 0.13793103448275862
+      },
+      {
+        "id": "5a713a5a5542994082a3e6a9",
+        "question": "what football club plays in the area between the old tool gates: brook bar and trafford bar?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Manchester United",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7133fa5542994082a3e660",
+        "question": "what is the relation between current manager of chinese club tianjin quanjian and paolo cannavaro?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "brother",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a71380c5542994082a3e68b",
+        "question": "what iron-hulled steamship designed by theodore timby was the orleans county monitor newspaper named after? ",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "USS \"Monitor\"",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7131565542994082a3e64f",
+        "question": "q: which actor played a role in the comedy series \"30 rock\" as well as the drama series \"mad men\"? a: jon hamm",
+        "prediction": "Jon Hamm",
+        "ground_truth": "Jon Hamm",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a713f395542994082a3e6ea",
+        "question": "where does the state legislature in which john coffin talbot served convene?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "the State House in Augusta",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7130365542994082a3e645",
+        "question": "what town did moe sedway have success in after benjamin \"bugsy\" siegel's murder?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Las Vegas",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a713fb15542994082a3e6f0",
+        "question": "did the board game san marco or about time come out first?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "San Marco",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a713dcb5542994082a3e6d9",
+        "question": "what pursuit did both gevork minaskanian and george stambolian have in common?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "American educator, writer,",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a713ea95542994082a3e6e4",
+        "question": "alvaro mexia had a diplomatic mission with which tribe of indigenous people?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Apalachees",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7137dc5542994082a3e68a",
+        "question": "kevin wayne durant was named what ?(an award initiated following 1952-53 nba season?",
+        "prediction": "Kevin Wayne Durant was named **NBA Rookie of the Year**, an award that was initiated following the 1952-53 NBA season.",
+        "ground_truth": "The National Basketball Association's Rookie of the Year",
+        "exact_match": 0,
+        "f1": 0.28571428571428575
+      },
+      {
+        "id": "5a713f3c5542994082a3e6eb",
+        "question": "where does the train that runs from nyc and miami station at in florida?",
+        "prediction": "The Miami station is located in Miami-Dade County, approximately 2.5 miles northwest of Miami, on the border of Miami and Hialeah. The trains are the Silver Star and Silver Meteor.",
+        "ground_truth": "Jacksonville station",
+        "exact_match": 0,
+        "f1": 0.0625
+      },
+      {
+        "id": "5a71419f5542994082a3e70d",
+        "question": "riema juhani karppinen won the silver medal at what event held outside of munich, germany?",
+        "prediction": "Riema Juhani Karppinen won the silver medal in the double sculls event at the **1981 World Rowing Championships**, held in **Manchester, UK**, which is outside of Munich, Germany.",
+        "ground_truth": "1981 World Rowing Championships",
+        "exact_match": 0,
+        "f1": 0.125
+      },
+      {
+        "id": "5a7143625542994082a3e71e",
+        "question": "who co-founded view askew productions and produced numerous movies starring jason lee?",
+        "prediction": "Kevin Smith and Scott Mosier",
+        "ground_truth": "Kevin Smith",
+        "exact_match": 0,
+        "f1": 0.5714285714285715
+      },
+      {
+        "id": "5a71446b5542994082a3e72a",
+        "question": "who signed into law the act made to lower barriers to adoption?",
+        "prediction": "President Bill Clinton",
+        "ground_truth": "President Bill Clinton",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7148685542994082a3e761",
+        "question": "paul ziert recruited what two time gold medalist in gymnastics?",
+        "prediction": "Bart Conner",
+        "ground_truth": "Bart Conner",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a71474b5542994082a3e74f",
+        "question": "what was triggered by the resignation of conservative mp stephen phillips on 4 november 2016 and was when caroline johnson became a member of parliament?",
+        "prediction": "Sleaford and North Hykeham by-election",
+        "ground_truth": "The Sleaford and North Hykeham by-election",
+        "exact_match": 0,
+        "f1": 0.9090909090909091
+      },
+      {
+        "id": "5a7147fd5542994082a3e758",
+        "question": "when was the king that started coin production in copenhagen born?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "2 February 1455",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7140585542994082a3e6fa",
+        "question": "seal harris was born in what county?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Polk County",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7148005542994082a3e759",
+        "question": "what tower house near aberchirder, aberdeenshire did david gregory inherit?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Kinnairdy Castle",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7148d25542994082a3e766",
+        "question": "which of these artists is older, warrel dane or roy khan?",
+        "prediction": "Warrel Dane is older than Roy Khan. Warrel Dane was born in 1969, while Roy Khan was born in 1970, making Warrel Dane one year older. This conclusion is based on consistent and directly comparable birth years.",
+        "ground_truth": "Warrel Dane",
+        "exact_match": 0,
+        "f1": 0.10256410256410257
+      },
+      {
+        "id": "5a7145d55542994082a3e73c",
+        "question": "which person went into space at a later date, sigmund jähn or christer fuglesang?",
+        "prediction": "Christer Fuglesang",
+        "ground_truth": "Christer Fuglesang",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7149cf5542994082a3e773",
+        "question": "what 2015 british-canadian-irish romantic drama was finola dwyer a producer of?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Brooklyn",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a714bb35542994082a3e78f",
+        "question": "which composer was born later, gaetano donizetti or william walton?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "William Turner Walton",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a714b645542994082a3e78b",
+        "question": "what year did lindsey broad star in the movie with russell brand and jonah hill?",
+        "prediction": "2010",
+        "ground_truth": "2010",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7149595542994082a3e76f",
+        "question": "who starred in love and other drugs and the simpsons?",
+        "prediction": "Hank Azaria",
+        "ground_truth": "Henry Albert \"Hank\" Azaria",
+        "exact_match": 0,
+        "f1": 0.3333333333333333
+      },
+      {
+        "id": "5a714f6f5542994082a3e7b3",
+        "question": "how many people live in the county serviced by the collier area transit system?",
+        "prediction": "The Collier Area Transit system serves **Collier County, Florida**. According to the 2010 census, the population was **321,520**. However, this figure is outdated, and the current population cannot be determined from the available data. Further investigation is needed to obtain a reliable, up-to-date estimate.",
+        "ground_truth": "321,520",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7153d05542994082a3e7dc",
+        "question": "which istanbul mosque is unique for retaining a baroque style of architecture, the bayezid ii mosque or the nusretiye mosque?",
+        "prediction": "Nusretiye Mosque",
+        "ground_truth": "Nusretiye Mosque",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a71646e5542994082a3e80e",
+        "question": "what is the proper name for the steroid used by the retired british track sprinter who is one of the fastest european sprinters in the history of athletics?",
+        "prediction": "Tetrahydrogestrinone (THG)",
+        "ground_truth": "Tetrahydrogestrinone",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a7166395542994082a3e814",
+        "question": "what is the name of the fight song of the university whose main campus is in lawrence, kansas and whose branch campuses are in the kansas city metropolitan area?",
+        "prediction": "The fight song of the University of Kansas, whose main campus is in Lawrence, Kansas and whose branch campuses are in the Kansas City metropolitan area, is **\"The Kansas Song.\"**",
+        "ground_truth": "Kansas Song",
+        "exact_match": 0,
+        "f1": 0.125
+      },
+      {
+        "id": "5a714de95542994082a3e7a8",
+        "question": "alexander young, also known as george alexander, is the uncle to which scottish musician who replaced malcolm young in the band ac/dc in 2014?",
+        "prediction": "Axl Rose",
+        "ground_truth": "Stephen Crawford Young",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7150c75542994082a3e7be",
+        "question": "what is the capacity of the stadium that hosts games of the team that was coached by barry switzer in 1981?",
+        "prediction": "86,112",
+        "ground_truth": "86,112",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a714dea5542994082a3e7a9",
+        "question": "which 2009 animated film is from japan, summer wars or the secret of kells?",
+        "prediction": "Summer Wars",
+        "ground_truth": "Summer Wars",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a71674f5542994082a3e819",
+        "question": "when was the magazine sam duckworth got his name get cape. wear cape. fly from launched?",
+        "prediction": "The magazine from which Sam Duckworth derived his stage name \"Get Cape. Wear Cape. Fly\" is *Retro Gamer*, which was launched in January 2004.",
+        "ground_truth": "January 2004",
+        "exact_match": 0,
+        "f1": 0.07692307692307693
+      },
+      {
+        "id": "5a716ec85542994082a3e82d",
+        "question": "which movie was filmed first \"the guest\" or \"you're next\"?",
+        "prediction": "\"You're Next\" was filmed first.",
+        "ground_truth": "You're Next",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a71717d5542994082a3e834",
+        "question": "what star of \"attack of the gryphon\" was also a voice artist in johnny bravo?  ",
+        "prediction": "Larry Drake",
+        "ground_truth": "Larry Richard Drake",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a716dc15542994082a3e82b",
+        "question": "who is younger kirk humphreys or tom coburn?",
+        "prediction": "Kirk Humphreys",
+        "ground_truth": "Kirk Humphreys",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a716f575542994082a3e82f",
+        "question": "was it  ishmael reed or joseph campbell who said follow your bliss?",
+        "prediction": "Joseph Campbell",
+        "ground_truth": "Joseph John Campbell",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a71443f5542994082a3e727",
+        "question": "is gasherbrum ii or nuptse closest to the tallest mountain in the world?",
+        "prediction": "Based on the available information, **Nuptse** is closer to Mount Everest (the tallest mountain in the world) than Gasherbrum II. Nuptse is located only two kilometers southwest of Mount Everest, while Gasherbrum II is in a different mountain range (Karakoram) and is geographically farther away.",
+        "ground_truth": "It lies two kilometres WSW of Mount Everest.",
+        "exact_match": 0,
+        "f1": 0.11320754716981134
+      },
+      {
+        "id": "5a716eeb5542994082a3e82e",
+        "question": "what actor starred with virginia katherine mcmath in star of midnight?  ",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "William Powell",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a717d4c5542994082a3e854",
+        "question": "who has written more than 300 papers, semyon aranovich gershgorin or pavel alexandrov?",
+        "prediction": "Based on the available information, Pavel Alexandrov wrote \"about three hundred papers,\" which could mean exactly 300 or slightly more/less, making it unclear if he wrote *more than* 300. No data is available for Semyon Aranovich Gershgorin. Therefore, it is impossible to determine who has written more than 300 papers between the two. Further research using authoritative academic sources is needed for a definitive answer.",
+        "ground_truth": "Pavel Sergeyevich Alexandrov",
+        "exact_match": 0,
+        "f1": 0.05882352941176471
+      },
+      {
+        "id": "5a7180205542994082a3e856",
+        "question": "the creator of \"wallace and gromit\" also created what animation comedy that matched animated zoo animals with a soundtrack of people talking about their homes? ",
+        "prediction": "The creator of *Wallace and Gromit*, Nick Park, also created *Creature Comforts*, an animation comedy that matches animated zoo animals with a soundtrack of people talking about their homes.",
+        "ground_truth": "Creature Comforts",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a716c415542994082a3e827",
+        "question": "which airline partners with gogo inflight internet and opened in 1984?",
+        "prediction": "Virgin Atlantic",
+        "ground_truth": "Virgin Atlantic",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7195a05542994082a3e881",
+        "question": "in what year did the israeli presidential elections take place after the resignation of the seventh president of israel?",
+        "prediction": "The seventh president of Israel, Ezer Weizman, resigned in 1999. The presidential elections that took place after his resignation occurred in **1999**, the same year as his resignation.",
+        "ground_truth": "2000",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7172105542994082a3e837",
+        "question": "what film did tom wu appear in that also starred jason statham and ray liotta? ",
+        "prediction": "Revolver",
+        "ground_truth": "Revolver",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a716a9b5542994082a3e821",
+        "question": "what actor from \"willow\" also starred in \"the usual suspects\"?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Kevin Elliot Pollak",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7182b65542994082a3e85b",
+        "question": "how many european jews died in the catastrophe of which eva hayman is a survivor?",
+        "prediction": "Approximately six million European Jews died in the Holocaust.",
+        "ground_truth": "six million",
+        "exact_match": 0,
+        "f1": 0.3636363636363636
+      },
+      {
+        "id": "5a7183575542994082a3e85e",
+        "question": "who was the architect of a dutch museum dedicated to the arts and history in amsterdam, located at the museum square?",
+        "prediction": "Pierre Cuypers",
+        "ground_truth": "Petrus Josephus Hubertus (Pierre) Cuypers",
+        "exact_match": 0,
+        "f1": 0.28571428571428575
+      },
+      {
+        "id": "5a719bf25542994082a3e891",
+        "question": "the astronomer who formulated the theory of stellar nucleosynthesis co-authored what landmark paper?",
+        "prediction": "Fred Hoyle co-authored the \"B2FH paper\" (Synthesis of the Elements in Stars).",
+        "ground_truth": "BFH",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7211e655429971e9dc923c",
+        "question": "what finnish christmas figure, which eventually become more or less conflated with santa claus, has modern representations typically made of straw.?",
+        "prediction": "Joulupukki",
+        "ground_truth": "The Yule goat",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7199725542994082a3e88f",
+        "question": "which publication still relies on paper printing, human events or texas highways? ",
+        "prediction": "Texas Highways",
+        "ground_truth": "Texas Highways",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72160e55429971e9dc9253",
+        "question": "who is the son of the author of the short story \"the enormous radio.\"",
+        "prediction": "Benjamin Hale Cheever",
+        "ground_truth": "Benjamin Hale Cheever",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a721d5a55429971e9dc9283",
+        "question": "what australian beer is a british style pale ale whose label features a character conceived in 1926? ",
+        "prediction": "Ballarat Bitter",
+        "ground_truth": "Ballarat Bitter is a 4.9% (abv) Australian beer",
+        "exact_match": 0,
+        "f1": 0.4
+      },
+      {
+        "id": "5a721b9055429971e9dc9277",
+        "question": "what airline holding company located in solna municipality, sweden owns a technical aircraft maintenance company located in arlanda, sweden?",
+        "prediction": "SAS Group",
+        "ground_truth": "SAS Group",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7220f055429971e9dc92ac",
+        "question": "what was the volvo s70 essentially modeled after and was the first all wheel drive volvo?",
+        "prediction": "The Volvo S70 was modeled after the Volvo 850 and was not the first all-wheel drive Volvo.",
+        "ground_truth": "Volvo 850",
+        "exact_match": 0,
+        "f1": 0.21052631578947367
+      },
+      {
+        "id": "5a721e0e55429971e9dc928d",
+        "question": "which university was founded first duke university or tufts university?",
+        "prediction": "Duke University",
+        "ground_truth": "Duke University",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7184675542994082a3e864",
+        "question": "what is the manufacturer of the car used by the ford cd2 platform's design inspiration?",
+        "prediction": "Mazda",
+        "ground_truth": "Mazda",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a721bbc55429971e9dc9279",
+        "question": "which grammy nominated album was created by a band whose members include john bowman?",
+        "prediction": "nature's symphony in 432",
+        "ground_truth": "Nature's Symphony in 432",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72120e55429971e9dc923f",
+        "question": "what is the name of the light rail station on the max blue line 7 mi west of portland, oregon?",
+        "prediction": "Quatama Max Station",
+        "ground_truth": "Beaverton Creek",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72125055429971e9dc9241",
+        "question": "what is the scientific name of the true creature featured in \"creature from the black lagoon?",
+        "prediction": "No scientific name exists.",
+        "ground_truth": "Eucritta melanolimnetes",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7222b155429971e9dc92c4",
+        "question": "which film, the happiest millionaire or mars needs moms, was created first?",
+        "prediction": "The Happiest Millionaire",
+        "ground_truth": "The Happiest Millionaire",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a721a7655429971e9dc9271",
+        "question": "what actor from the show murphy brown also had a role in a show with fellow actor steve howey? ",
+        "prediction": "Jay Thomas",
+        "ground_truth": "Christopher Rich",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a721dfd55429971e9dc928b",
+        "question": "which of kylian hazard's older brothers plays for the german bundesliga club borussia mönchengladbach and the belgium national team.",
+        "prediction": "Thorgan Hazard, one of Kylian Hazard's older brothers, plays for the German Bundesliga club Borussia Mönchengladbach and the Belgium national team.",
+        "ground_truth": "Thorgan Ganael Francis Hazard",
+        "exact_match": 0,
+        "f1": 0.08
+      },
+      {
+        "id": "5a7224ab55429971e9dc92dd",
+        "question": "who was the lead singer of eighth wonder and who was born on march, 4th in 1968?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Patricia Jude Francis Kensit",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a722a6855429971e9dc9320",
+        "question": "what is the character's name for which anna leonidovna kovalchuk won a prize in the legal festival \"law and society\"?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Chief Detective Maria Shvetsova",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a722b8655429971e9dc9329",
+        "question": "who was the writer of these boots are made for walkin' and who died in 2007?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Barton Lee Hazlewood",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7217f255429971e9dc9260",
+        "question": "which member of parliament for macclesfield was married to jane ann winterton?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Sir Nicholas Raymond Winterton",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72239a55429971e9dc92cf",
+        "question": "who was soldier archie a. peck's commanding officer during the meuse-argonne offensive?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Major Charles White Whittlesey",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7243915542990c210a4086",
+        "question": "where is the university of north carolina at wilmington, population 112,067 located?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Wilmington, North Carolina",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72334755429971e9dc934c",
+        "question": "\"heartbreak hurricane\" was recorded by which country artist, that also goes by the name ricky skaggs?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Rickie Lee Skaggs",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72429355429971e9dc9375",
+        "question": "what machine has the same name as another machine created by ludwig boltzmann?",
+        "prediction": "No other machine shares the same name as the Boltzmann machine created by Ludwig Boltzmann.",
+        "ground_truth": "Boltzmann machine",
+        "exact_match": 0,
+        "f1": 0.23529411764705882
+      },
+      {
+        "id": "5a72224755429971e9dc92be",
+        "question": "which was founded first, dain rauscher wessels or berenberg bank?",
+        "prediction": "Berenberg Bank",
+        "ground_truth": "Dain Rauscher Wessels",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72339855429971e9dc934d",
+        "question": "which song reached number 3 on the \"billboard\" hot 100 that featured guest vocals fron allessia cara and khalid?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "1-800-273-8255",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a722c2255429971e9dc932c",
+        "question": "what type of development, currently existing in pasay, is currently being considered for malls such as one in m.a. roxas avenue in clark freeport, angeles city in pampanga philippines?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "SM Lifestyle Cities",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a724ba25542990c210a40c7",
+        "question": "what is the english translation of the social group which baran khan kudezai was a part of?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "grand assembly",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7228f655429971e9dc9312",
+        "question": "which \"novel with a key\" was written by john ehrlichman about the cia, base on events leading up to the watergate coverup?",
+        "prediction": "The Company",
+        "ground_truth": "The Company",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a724a2b5542990c210a40bc",
+        "question": "what team plays within the big 12 conference and has kevin bookout playing for them?",
+        "prediction": "Oklahoma Sooners",
+        "ground_truth": "Oklahoma Sooners men's basketball",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a7248665542990c210a40b1",
+        "question": "what is the colloquial name of the professional football team in which striker frederico chaves guedos played? ",
+        "prediction": "Galo",
+        "ground_truth": "Rooster",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7249b85542990c210a40b9",
+        "question": "osireion is located to the rear of the temple named after which new kingdom nineteenth dynasty of egypt pharaoh?",
+        "prediction": "Seti I",
+        "ground_truth": "Seti I",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7244955542990c210a408a",
+        "question": "what was the name changed to after allison j71 was modified to a thrust of 7400 lbf?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "J35",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7261635542997f8278398a",
+        "question": "where is the city that ingrida ardišauskaitė was born in located in lithuania?",
+        "prediction": "Utena, Lithuania",
+        "ground_truth": "a city in north-east Lithuania.",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72634d5542997f82783994",
+        "question": "what city will host the event in which marie gisele eleme asse won twoo medals in 2017",
+        "prediction": "Budapest",
+        "ground_truth": "Abidjan",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a722fae55429971e9dc9343",
+        "question": "what is the name of the daughter of the irish entertainer in the girl band maxi, dick and twink?",
+        "prediction": "Chloë Agnew",
+        "ground_truth": "Chloë Alexandra Adele Emily Agnew",
+        "exact_match": 0,
+        "f1": 0.5714285714285715
+      },
+      {
+        "id": "5a72644b5542997f8278399a",
+        "question": "what professional footballer who plays for championship side cardiff city was part of the 2009 houphouët-boigny stampede?",
+        "prediction": "Based on the available information, there is no evidence to suggest that any professional footballer who played for Cardiff City was part of the 2009 Houphouët-Boigny stampede. The available data does not link any Cardiff City players to the event, and no specific player has been identified as being involved. Further investigation with reliable sources would be needed to confirm if any connection exists.",
+        "ground_truth": "Souleymane \"Sol\" Bamba",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7265815542990c210a411b",
+        "question": "what is the call sign of the airline that operates the flight with united express flight 3411 incident?",
+        "prediction": "Brickyard",
+        "ground_truth": "Brickyard",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7263e05542997f82783998",
+        "question": "what medieval fortress is believed to refer to a chapel at the bottom of a hill?",
+        "prediction": "Bonkyll Castle",
+        "ground_truth": "Bonkyll Castle",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72688c5542997f827839b2",
+        "question": "the atik valide mosque and valens aqueduct are found in what country?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Turkey",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7252db5542990c210a4104",
+        "question": "what is the name of the oldest child that attended the trump campaign-russian meeting?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Donald Trump Jr.",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7268235542992359bc3081",
+        "question": "what unit of the air national guard is located at a base that was home to the 509th bomb wing flying the general dynamics fb-111a?",
+        "prediction": "No current Air National Guard unit is located at the former Pease Air Force Base.",
+        "ground_truth": "133d Air Refueling Squadron",
+        "exact_match": 0,
+        "f1": 0.10526315789473685
+      },
+      {
+        "id": "5a7265a95542992359bc307a",
+        "question": "in what year did construction begin on the stadium where the 2013 america east men's lacrosse tournament was held?",
+        "prediction": "2000 or 2001",
+        "ground_truth": "in 2000",
+        "exact_match": 0,
+        "f1": 0.4
+      },
+      {
+        "id": "5a724dc25542990c210a40df",
+        "question": "which was released later, the strongest man in the world, or roving mars?",
+        "prediction": "Roving Mars",
+        "ground_truth": "Roving Mars",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7264ed5542990c210a411a",
+        "question": "what was the slogan  that came about from the idea of lebensraum which had its most extreme form supported by the nazi party until the end of world war ii?",
+        "prediction": "Blood and soil",
+        "ground_truth": "Blood and soil",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7270395542992359bc30a8",
+        "question": "when was the city george consider hale was born in founded?",
+        "prediction": "the 1830s",
+        "ground_truth": "in the 1830s",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a7271525542997f827839d0",
+        "question": "what are the colors of the tricolour flag that was adopted in 1919?",
+        "prediction": "green, white, and orange",
+        "ground_truth": "green (at the hoist), white and orange",
+        "exact_match": 0,
+        "f1": 0.36363636363636365
+      },
+      {
+        "id": "5a726ba35542997f827839c0",
+        "question": "which racecar driver who performed in the 1971 canadian grand prix was born in 1937?",
+        "prediction": "Mark Donohue",
+        "ground_truth": "Mark Neary Donohue Jr.",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a727ca45542994cef4bc2d8",
+        "question": "what is old orchard shopping center currently called?",
+        "prediction": "Westfield Old Orchard",
+        "ground_truth": "Westfield Old Orchard",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7269fa5542992359bc308d",
+        "question": "which tennis player was born first, kimberly po or leoš friedl?",
+        "prediction": "Kimberly Po",
+        "ground_truth": "Leoš Friedl",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a727a635542994cef4bc2c9",
+        "question": "what type of ovulation does the animal formerly known as the pygmy chimpanzee have?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Concealed ovulation",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7265825542997f827839a3",
+        "question": "what olympic medal did the opponent of crawford ashley for the world boxing association (wba) world super middleweight title win in 1984?",
+        "prediction": "The opponent of Ashley Crawford for the WBA world super middleweight title was Michael Nunn. There is no available information confirming whether Michael Nunn competed in the 1984 Olympics or won an Olympic medal. Based on the current data, it is most likely that Michael Nunn did not win an Olympic medal in 1984.",
+        "ground_truth": "a silver medal",
+        "exact_match": 0,
+        "f1": 0.03508771929824561
+      },
+      {
+        "id": "5a7281075542994cef4bc2e9",
+        "question": "in 1736, a fortified complex was built in the heart of moscow. what is this complex known as?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Moscow Kremlin",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7280925542991f9a20c4a1",
+        "question": "pokémon: arceus and the jewel of life and totally spies! the movie both released in what year?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "2009",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7286865542991f9a20c4cb",
+        "question": "which 1949 british black comedy film does the skindles hotel appear on? ",
+        "prediction": "The Skindles Hotel does not appear in any 1949 British black comedy film.",
+        "ground_truth": "Kind Hearts and Coronets",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a726b0f5542997f827839be",
+        "question": "who was born first, samantha cristoforetti or jean-loup chrétien",
+        "prediction": "Jean-Loup Chrétien",
+        "ground_truth": "Jean-Loup Jacques Marie Chrétien",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a72814f5542994cef4bc2eb",
+        "question": "the american astronomical society presents an award named after what new zealand astronomer?",
+        "prediction": "Beatrice M. Tinsley Prize",
+        "ground_truth": "Beatrice Tinsley",
+        "exact_match": 0,
+        "f1": 0.6666666666666666
+      },
+      {
+        "id": "5a72830e5542994cef4bc2f9",
+        "question": "where is the company that distributed xxxtentacion's single \"revenge\" based?",
+        "prediction": "San Francisco",
+        "ground_truth": "San Francisco, California",
+        "exact_match": 0,
+        "f1": 0.4
+      },
+      {
+        "id": "5a727e1b5542991f9a20c497",
+        "question": "in which song was written by singer-songwriter taylor swift and shares the optimistic lyrical message to a song called \"yodel it!\"?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Shake It Off",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a728b1c5542992359bc30e0",
+        "question": "which member of the boy group shinee released their first studio album \"she is\"?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Jonghyun",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7283365542991f9a20c4b2",
+        "question": "allison gross is a character in a story which applies what writing technique that introduces characters in threes? ",
+        "prediction": "rule of three",
+        "ground_truth": "rule of three",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a728fbd5542992359bc30f8",
+        "question": "who was convicted of murdering the director of schoolboy crush?",
+        "prediction": "Harlow Cuadra and Joseph Kerekes",
+        "ground_truth": "Harlow Cuadra and Joseph Kerekes",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a728f505542992359bc30f5",
+        "question": "gail matthius co-anchored the weekend update segment of \"saturday night live\" with the actor who played the villain nicholas andre in what movie?",
+        "prediction": "Dumb and Dumber",
+        "ground_truth": "Dumb and Dumber",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a728f745542991f9a20c4e6",
+        "question": "which magazine was founded first, diva or elle?",
+        "prediction": "Elle",
+        "ground_truth": "Elle",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a728f015542991f9a20c4e4",
+        "question": "which star of zork was also the voice of pac-man?",
+        "prediction": "Marty Ingels",
+        "ground_truth": "Martin Ingerman",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a728f3c5542992359bc30f4",
+        "question": "which football club appeared in the 2015 fa community shield cup, as well as, the 2014–15 premier league championship?",
+        "prediction": "Chelsea and Arsenal",
+        "ground_truth": "Chelsea",
+        "exact_match": 0,
+        "f1": 0.5
+      },
+      {
+        "id": "5a72908f5542994cef4bc33b",
+        "question": "which musician, ciaran gribbin or brett scallions, is a member of the post-grunge band fuel?",
+        "prediction": "Brett Scallions",
+        "ground_truth": "Brett Allen Scallions",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a7280105542994cef4bc2e4",
+        "question": "indie studio jumpship developed what puzzle-platform video game released in july 2010?",
+        "prediction": "Somerville",
+        "ground_truth": "Limbo",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7283355542991f9a20c4b1",
+        "question": "who is the grandfather to frederick ii and was the holy roman emperor until death?",
+        "prediction": "Henry VI",
+        "ground_truth": "Frederick I",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7293655542991f9a20c4ff",
+        "question": "what 1996 book was written by the founder of media matter for america?",
+        "prediction": "The founder of Media Matters for America is **David Brock**. However, based on the available information, there is no confirmed record of a book written by Brock in 1996. Further research would be needed to verify whether such a book exists.",
+        "ground_truth": "The Seduction of Hillary Rodham",
+        "exact_match": 0,
+        "f1": 0.08695652173913045
+      },
+      {
+        "id": "5a7291c35542991f9a20c4f4",
+        "question": "what movie was directed by harold ramis and stars bill  murray?",
+        "prediction": "Groundhog Day",
+        "ground_truth": "Groundhog Day",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a728dc65542992359bc30ef",
+        "question": "what fellow turkish footballer did darko kovačević form an offensive partnership with during his tenure at real sociedad?",
+        "prediction": "Nihat Kahveci",
+        "ground_truth": "Nihat Kahveci",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7284c85542991f9a20c4c0",
+        "question": "what team is coached by former head college coach connie yori?",
+        "prediction": "Based on the available information, Connie Yori, a former head college coach with experience at Nebraska, Loras College, and Creighton, is not currently associated with a coaching position. Her present team or professional role remains unspecified, suggesting she may no longer be actively coaching or that her current position is not publicly documented. Further investigation would be needed to confirm her current status.",
+        "ground_truth": "Nebraska Cornhuskers women's basketball",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7294b65542991f9a20c509",
+        "question": "what is the name of the umcoming horror film adaptation starring melanie griffiths daughter?",
+        "prediction": "Suspiria",
+        "ground_truth": "Suspiria",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a7292385542994cef4bc342",
+        "question": "who wrote lyrics for both \"little shop of horrors\" and the song \"be our guest?\" ",
+        "prediction": "Howard Ashman",
+        "ground_truth": "Howard Elliott Ashman",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a729cc25542991f9a20c532",
+        "question": "which author wrote about a woman captured by the symbionese liberation army?",
+        "prediction": "Susan Choi",
+        "ground_truth": "Paul Avery",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7299e75542991f9a20c524",
+        "question": "what movie was released at a later date, my dog tulip or monsters vs. aliens?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Monsters vs. Aliens",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7299465542992359bc3131",
+        "question": "what company was luca cordero di montezemolo the chairman of that merged into a new netherlands-based holding company fiat chrysler automobiles nv?",
+        "prediction": "Fiat S.p.A.",
+        "ground_truth": "Fabbrica Italiana Automobili Torino",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a7296815542991f9a20c515",
+        "question": "who brewed the first espresso coffee in space, patrick baudry or samantha cristoforetti?",
+        "prediction": "Samantha Cristoforetti brewed the first espresso coffee in space on May 3, 2015, using the ISSpresso machine. There is no evidence that Patrick Baudry brewed espresso in space, as his missions lacked the necessary equipment. Therefore, Cristoforetti is unequivocally the first person to brew espresso in space.",
+        "ground_truth": "Samantha Cristoforetti",
+        "exact_match": 0,
+        "f1": 0.08163265306122448
+      },
+      {
+        "id": "5a729fe55542991f9a20c53b",
+        "question": "what man is credited eith inventing both the leyden jar and the tribometer?",
+        "prediction": "Based on the available information, **Pieter van Musschenbroek** is credited with inventing both the Leyden jar (a capacitor) and the tribometer (an instrument for measuring friction). While the attribution for the Leyden jar is well-documented, the attribution for the tribometer is less detailed and contested among sources. Thus, Musschenbroek is the most consistently identified individual credited with both inventions, though historical ambiguity remains regarding the tribometer.",
+        "ground_truth": "Pieter van Musschenbroek",
+        "exact_match": 0,
+        "f1": 0.057971014492753624
+      },
+      {
+        "id": "5a729fa15542994cef4bc397",
+        "question": "which movie came out first, \"bambi\" or \"underdog\"?",
+        "prediction": "Bambi",
+        "ground_truth": "Bambi",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a729e7b5542992359bc313d",
+        "question": "which river system in chilhowie, virginia was the starting place for most longhunters?",
+        "prediction": "Holston River system",
+        "ground_truth": "Holston River",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a72944c5542994cef4bc351",
+        "question": "what man, born in 1963, was instrumental in bringing the boston red sox to the stadium city of palms park in fort myers, florida?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Mike Greenwell",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72a51355429901807daf21",
+        "question": "who is the chairman of the company that operates suncoast hotel and casino?",
+        "prediction": "The chairman of the company that operates the Suncoast Hotel and Casino is **Bill Boyd**, who serves as the executive chairman of Boyd Gaming.",
+        "ground_truth": "Bill Boyd",
+        "exact_match": 0,
+        "f1": 0.07692307692307693
+      },
+      {
+        "id": "5a72a0be5542992359bc3143",
+        "question": "this work of literature _______ , known by its greek title oedipus tyrannus was argued by sigmund freud to be one of the greatest works of world literature in his 1928 article. ",
+        "prediction": "The work of literature known by its Greek title *Oedipus Tyrannus*, which Sigmund Freud argued in a 1928 article to be one of the greatest works of world literature, is *Oedipus Rex*. However, the specific title of the 1928 article by Freud remains unidentified based on the available information.",
+        "ground_truth": "Oedipus Rex",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72953b5542994cef4bc357",
+        "question": "what labor member of the house of representatives in the australian parliament was a member of the australian labor party australian young labor?",
+        "prediction": "Anthony Burke",
+        "ground_truth": "Tony Burke",
+        "exact_match": 0,
+        "f1": 0.5
+      },
+      {
+        "id": "5a72a3c45542994cef4bc3ac",
+        "question": "what is the birth name of the woman that \"a woman called moses\" is based on?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Araminta Ross",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72a4645542991f9a20c54c",
+        "question": "what notable radio personality was born in north bend, oregon?",
+        "prediction": "Delilah Rene",
+        "ground_truth": "Delilah Luke",
+        "exact_match": 0,
+        "f1": 0.5
+      },
+      {
+        "id": "5a72a9ac5542991f9a20c55f",
+        "question": "which show co-hosted by hoda kotb was produced by brian balthazar?",
+        "prediction": "The show co-hosted by Hoda Kotb that was produced by Brian Balthazar is the fourth hour of NBC's *Today Show*, which she co-hosts with Kathie Lee Gifford.",
+        "ground_truth": "the fourth hour of the TODAY Show",
+        "exact_match": 0,
+        "f1": 0.35294117647058826
+      },
+      {
+        "id": "5a72a9ab5542992359bc315a",
+        "question": "which north american tribe inhabited the banks of the winnipesaukee river and were also known as the pawtucket people?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "the Pennacook people",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72ac8a5542992359bc3164",
+        "question": "which body of water required more intensive man made barriers the dundee canal or lake worth lagoon?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "The Dundee Canal",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72a5a75542992359bc314e",
+        "question": "who is the british explorer and holder of several endurance records who partnered with mike stroud on polar expiditions?",
+        "prediction": "Based on the available information, the British explorer and holder of several endurance records who partnered with Mike Stroud on polar expeditions is **Ranulph Fiennes**. He is renowned for his extreme expeditions and record-breaking achievements in exploration.",
+        "ground_truth": "Sir Ranulph Twisleton-Wykeham-Fiennes",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72a47d55429901807daf1f",
+        "question": "arundel castle was damaged during a war between which two groups?",
+        "prediction": "Parliamentarians and Royalists",
+        "ground_truth": "Parliamentarians (\"Roundheads\") and Royalists (\"Cavaliers\")",
+        "exact_match": 0,
+        "f1": 0.7499999999999999
+      },
+      {
+        "id": "5a72a2935542991f9a20c546",
+        "question": "is velvetpark or shape magazine written more for a lesbian and queer-identified female readership?",
+        "prediction": "Velvetpark",
+        "ground_truth": "Velvetpark",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72a9145542994cef4bc3c1",
+        "question": "which player signed to bayern munich before the 2012-2013 season was known mostly as a central defender?",
+        "prediction": "Dante",
+        "ground_truth": "Dante",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72b8de5542994cef4bc3df",
+        "question": "which runner-up from \"american idol\" wrote country song \"next boyfriend\"?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "Lauren Alaina",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72b3335542994cef4bc3dc",
+        "question": "what party campaigned for the irish home rule movement?",
+        "prediction": "API 调用失败：Error code: 429 - {'message': 'Request was rejected due to rate limiting. Details: TPM limit reached.', 'data': None}",
+        "ground_truth": "The Home Rule League",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72abb95542992359bc3162",
+        "question": "which film was not a 3d computer-animation cars 3 or smith!?",
+        "prediction": "Smith!",
+        "ground_truth": "Smith!",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72aec45542994cef4bc3d7",
+        "question": "which author lived longer, nelson algren or nathanael west?",
+        "prediction": "Nelson Algren",
+        "ground_truth": "Nelson Algren",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72bbfa5542992359bc318d",
+        "question": "which university was established first, university of washington or texas christian university?",
+        "prediction": "University of Washington",
+        "ground_truth": "University of Washington",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72bb045542994cef4bc3e4",
+        "question": "the nun is based on what film series based on the real life cases of ed and lorraine warren?",
+        "prediction": "The Conjuring Universe",
+        "ground_truth": "The Conjuring",
+        "exact_match": 0,
+        "f1": 0.8
+      },
+      {
+        "id": "5a72af155542992359bc316c",
+        "question": "what movie included robin williams along with joshua aaron charles, set in 1959 at a vermont boarding school?",
+        "prediction": "Dead Poets Society",
+        "ground_truth": "Dead Poets Society",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72ba165542992359bc318a",
+        "question": "who runs the website surpassed by both baidu baike and hudong.com?",
+        "prediction": "Pan Haidong",
+        "ground_truth": "Wikimedia Foundation",
+        "exact_match": 0,
+        "f1": 0.0
+      },
+      {
+        "id": "5a72b9155542992359bc3187",
+        "question": "what service is an amtrak flagship that includes bwi rail station as one of its amtrak intercity services?",
+        "prediction": "Acela Express",
+        "ground_truth": "Acela Express",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72b2dc5542992359bc3173",
+        "question": "what is the name of the actor who wrote the memoir without you: a memoir of love, loss, and the musical rent and also stared as mark cohen in the broadway production of \"rent\"?",
+        "prediction": "Anthony Rapp",
+        "ground_truth": "Anthony Rapp",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72a6d855429901807daf27",
+        "question": "of four harry s. truman supreme court candidates, who was the 53rd united states secretary of the treasury and the 13th chief justice of the united states?",
+        "prediction": "Frederick Vinson",
+        "ground_truth": "Fred M. Vinson",
+        "exact_match": 0,
+        "f1": 0.4
+      },
+      {
+        "id": "5a72ba1a5542992359bc318b",
+        "question": "which song did eminem and rihanna collaborate on after their other collaboration song in studio album \"unapologetic?\"",
+        "prediction": "The Monster",
+        "ground_truth": "The Monster",
+        "exact_match": 1,
+        "f1": 1.0
+      },
+      {
+        "id": "5a72bd0b5542992359bc318f",
+        "question": "who achieved more academically, andrea martin or mark hoplamazian? ",
+        "prediction": "Mark Hoplamazian",
+        "ground_truth": "Mark S. Hoplamazian",
+        "exact_match": 0,
+        "f1": 0.8
+      }
+    ]
+  },
+  "random_sampling_evaluation": {
+    "50_samples": {
+      "sample_size": 50,
+      "repeats": 5,
+      "trials": [
+        {
+          "trial": 1,
+          "samples_used": 50,
+          "avg_em": 0.2,
+          "avg_f1": 0.3812
+        },
+        {
+          "trial": 2,
+          "samples_used": 50,
+          "avg_em": 0.34,
+          "avg_f1": 0.4836
+        },
+        {
+          "trial": 3,
+          "samples_used": 50,
+          "avg_em": 0.24,
+          "avg_f1": 0.3779
+        },
+        {
+          "trial": 4,
+          "samples_used": 50,
+          "avg_em": 0.34,
+          "avg_f1": 0.5032
+        },
+        {
+          "trial": 5,
+          "samples_used": 50,
+          "avg_em": 0.14,
+          "avg_f1": 0.2909
+        }
+      ],
+      "overall_statistics": {
+        "avg_em": 0.252,
+        "std_em": 0.0786,
+        "avg_f1": 0.4074,
+        "std_f1": 0.0776
+      }
+    },
+    "100_samples": {
+      "sample_size": 100,
+      "repeats": 5,
+      "trials": [
+        {
+          "trial": 1,
+          "samples_used": 100,
+          "avg_em": 0.3,
+          "avg_f1": 0.438
+        },
+        {
+          "trial": 2,
+          "samples_used": 100,
+          "avg_em": 0.32,
+          "avg_f1": 0.4456
+        },
+        {
+          "trial": 3,
+          "samples_used": 100,
+          "avg_em": 0.3,
+          "avg_f1": 0.4048
+        },
+        {
+          "trial": 4,
+          "samples_used": 100,
+          "avg_em": 0.33,
+          "avg_f1": 0.4505
+        },
+        {
+          "trial": 5,
+          "samples_used": 100,
+          "avg_em": 0.25,
+          "avg_f1": 0.4056
+        }
+      ],
+      "overall_statistics": {
+        "avg_em": 0.3,
+        "std_em": 0.0276,
+        "avg_f1": 0.4289,
+        "std_f1": 0.0197
+      }
+    },
+    "150_samples": {
+      "sample_size": 150,
+      "repeats": 5,
+      "trials": [
+        {
+          "trial": 1,
+          "samples_used": 150,
+          "avg_em": 0.2667,
+          "avg_f1": 0.4143
+        },
+        {
+          "trial": 2,
+          "samples_used": 150,
+          "avg_em": 0.2667,
+          "avg_f1": 0.4271
+        },
+        {
+          "trial": 3,
+          "samples_used": 150,
+          "avg_em": 0.3133,
+          "avg_f1": 0.4557
+        },
+        {
+          "trial": 4,
+          "samples_used": 150,
+          "avg_em": 0.2733,
+          "avg_f1": 0.4225
+        },
+        {
+          "trial": 5,
+          "samples_used": 150,
+          "avg_em": 0.28,
+          "avg_f1": 0.4229
+        }
+      ],
+      "overall_statistics": {
+        "avg_em": 0.28,
+        "std_em": 0.0174,
+        "avg_f1": 0.4285,
+        "std_f1": 0.0142
+      }
+    }
+  },
+  "summary_note": "Random sampling was performed 5 times for each sample size (50, 100, 150)"
+}

@@ -1,0 +1,881 @@
+{
+  "comparison_info": {
+    "file1": "comprehensive_evaluation_20260320_161453.json",
+    "file2": "comprehensive_evaluation_20260326_171614.json",
+    "timestamp": "2026-03-26 17:37:52",
+    "total_common_samples": 200,
+    "different_predictions": 79,
+    "same_predictions": 121
+  },
+  "differences": [
+    {
+      "id": "5a70f0a75542994082a3e403",
+      "question": "which dialect spoken in the province of scania calls spettekaka, \"spiddekaga\"?",
+      "ground_truth": "Scanian dialects",
+      "prediction_v1": "The Scanian dialect is spoken in the province of Scania, Sweden, and the traditional term for the regional dessert is \"spettekaka.\" However, there is no evidence to confirm whether \"spiddekaga\" is a recognized variation of \"spettekaka\" in Scanian. Further research would be needed to determine if such a variation exists.",
+      "prediction_v2": "Scanian",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.038461538461538464,
+      "f1_v2": 0.6666666666666666
+    },
+    {
+      "id": "5a70f1685542994082a3e40f",
+      "question": "which piece did ludwig van beethoven publish in 1801 that was dedicated to count moritz von fries? ",
+      "ground_truth": "Symphony No. 7",
+      "prediction_v1": "Spring Sonata (Violin Sonata No. 5)",
+      "prediction_v2": "Violin Sonata No. 4 and Spring Sonata",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.2222222222222222,
+      "f1_v2": 0.2
+    },
+    {
+      "id": "5a70f39c5542994082a3e429",
+      "question": "what is the name of the independent candidate in maine's 2010 gubernatorial race who finished ahead of libby mitchell?",
+      "ground_truth": "Eliot Cutler",
+      "prediction_v1": "Eliot Cutler",
+      "prediction_v2": "No independent candidate finished ahead of Libby Mitchell.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a70f6425542994082a3e44c",
+      "question": "renamed in 2014, what was the vehicle offered as a prize to contestants on the first season of the amazing race canada?",
+      "ground_truth": "Chevrolet Corvette Stingrays",
+      "prediction_v1": "Chevrolet Corvette",
+      "prediction_v2": "No vehicle was offered as a prize in the first season.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.8,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a7100435542994082a3e4a3",
+      "question": " are finding kraftland and shikashika both frozen drinks?",
+      "ground_truth": "Shikashika is a shaved ice drink",
+      "prediction_v1": "Shikashika is not a frozen drink, but Kraftland's status is unclear.",
+      "prediction_v2": "No, neither Kraftland nor Shikashika are frozen drinks. Shikashika is a shaved ice drink, and Kraftland is a documentary film, not a drink.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.3529411764705882,
+      "f1_v2": 0.3448275862068966
+    },
+    {
+      "id": "5a7103b35542994082a3e4c0",
+      "question": "which mountain, masherbrum or khunyang chhish, is a taller mountain?",
+      "ground_truth": "Khunyang Chhish",
+      "prediction_v1": "Khunyang Chhish",
+      "prediction_v2": "Masherbrum is the taller mountain based on verified height data.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a71148b5542994082a3e567",
+      "question": "what was the population of the city where penobscot marine museum is located?",
+      "ground_truth": "The population was 2,615",
+      "prediction_v1": "2,615",
+      "prediction_v2": "2,615 (2010 census)",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.4,
+      "f1_v2": 0.28571428571428575
+    },
+    {
+      "id": "5a71166d5542994082a3e576",
+      "question": "which battle occurred first, the battle of manila or the battle of guam?",
+      "ground_truth": "Battle of Guam",
+      "prediction_v1": "The Battle of Guam occurred first.",
+      "prediction_v2": "The Battle of Manila in 1574 occurred first.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.6666666666666666,
+      "f1_v2": 0.36363636363636365
+    },
+    {
+      "id": "5a711c535542994082a3e59b",
+      "question": "albanians in montenegro which make up 4.91 of the county's total population could be members of the albanian coalation perspect which is a what? ",
+      "ground_truth": "Albanian political party in Montenegro",
+      "prediction_v1": "political party",
+      "prediction_v2": "political coalition",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.5714285714285715,
+      "f1_v2": 0.28571428571428575
+    },
+    {
+      "id": "5a71214d5542994082a3e5b9",
+      "question": "what production company was founded by george balanchine to create a live stage version of the 1942 film casablanca?",
+      "ground_truth": "The Los Angeles Dance Theater",
+      "prediction_v1": "There is no such production company founded by George Balanchine.",
+      "prediction_v2": "No definitive evidence confirms George Balanchine founded a production company for a live stage version of *Casablanca*. The Los Angeles Dance Theater was established for this purpose, but its direct connection to Balanchine's founding is unverified.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.24390243902439027
+    },
+    {
+      "id": "5a71224f5542994082a3e5c1",
+      "question": "when was the actor born who starred in nambia: the struggle for liberation and played roger murtaugh in the \"lethal weapon\" film series?",
+      "ground_truth": "July 22, 1946",
+      "prediction_v1": "July 22, 1946",
+      "prediction_v2": "Danny Glover starredBornJuly 22, 194",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.25
+    }, #
+    {
+      "id": "5a71278c5542994082a3e5e2",
+      "question": "what north carolina native did danja produce songs for?",
+      "ground_truth": "J. Cole",
+      "prediction_v1": "Based on the available information, Danja has produced songs for high-profile artists such as Pink, T.I., and Usher, but there is no explicit confirmation that any of these artists are native to North Carolina. While potential North Carolina natives like Zion Williamson and Johnathan Hildred Wall Jr. have been mentioned as possible collaborators, there is no evidence that Danja produced songs for them. Therefore, the question remains unanswered, and further research is needed to identify whether Danja has produced songs for a North Carolina native.",
+      "prediction_v2": "J. Cole",
+      "em_v1": 0,
+      "em_v2": 1,
+      "f1_v1": 0.0,
+      "f1_v2": 1.0
+    }, #
+    {
+      "id": "5a7128b05542994082a3e5f2",
+      "question": "which film was released first, laura's star or wonder woman?",
+      "ground_truth": "Laura's Star",
+      "prediction_v1": "Laura's Star",
+      "prediction_v2": "Laura's Star was released first.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.5714285714285715
+    }, #
+    {
+      "id": "5a7129685542994082a3e5fa",
+      "question": "which \"blackzilians\" fighter is currently competing in the middleweight division of ultimate fighting championship?",
+      "ground_truth": "Vitor Belfort",
+      "prediction_v1": "Vitor Belfort",
+      "prediction_v2": "Samuel Alvey and Vitor Borgort",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.28571428571428575
+    }, #
+    {
+      "id": "5a712beb5542994082a3e61c",
+      "question": "what golden globe award actor starred in the film little fugitive? ",
+      "ground_truth": "Peter Dinklage",
+      "prediction_v1": "Nicholas King Nolte",
+      "prediction_v2": "No actor from the film \"Little Fugitive\" won a Golden Globe award.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a712c4b5542994082a3e622",
+      "question": "what heritage site, known for a british explorer, is listed seventeen seventy australia?",
+      "ground_truth": "Captain Cook's Landing Place",
+      "prediction_v1": "Captain Cook's Landing Place",
+      "prediction_v2": "1770 Australia",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.0
+    }, #
+    {
+      "id": "5a7133fa5542994082a3e660",
+      "question": "what is the relation between current manager of chinese club tianjin quanjian and paolo cannavaro?",
+      "ground_truth": "brother",
+      "prediction_v1": "Fabio Cannavaro is the current manager of Tianjin Quanjian, and Paolo Cannavaro is his former teammate, but no direct relationship beyond this is specified.",
+      "prediction_v2": "Indirect connection through Fabio Cannavaro, who is Paolo Cannavaro's former teammate and current manager of Tianjin Quanjian.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    }, #
+    {
+      "id": "5a713dcb5542994082a3e6d9",
+      "question": "what pursuit did both gevork minaskanian and george stambolian have in common?",
+      "ground_truth": "American educator, writer,",
+      "prediction_v1": "Intellectual contribution through writing and publication",
+      "prediction_v2": "Association with \"Common Pursuit\" magazine",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    }, #
+    {
+      "id": "5a713f395542994082a3e6ea",
+      "question": "where does the state legislature in which john coffin talbot served convene?",
+      "ground_truth": "the State House in Augusta",
+      "prediction_v1": "State House in Augusta",
+      "prediction_v2": "Augusta, Maine",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.888888888888889,
+      "f1_v2": 0.0
+    }, #
+    {
+      "id": "5a713f3c5542994082a3e6eb",
+      "question": "where does the train that runs from nyc and miami station at in florida?",
+      "ground_truth": "Jacksonville station",
+      "prediction_v1": "Miami Station",
+      "prediction_v2": "Miami station in Florida",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.5,
+      "f1_v2": 0.3333333333333333
+    }, #
+    {
+      "id": "5a71419f5542994082a3e70d",
+      "question": "riema juhani karppinen won the silver medal at what event held outside of munich, germany?",
+      "ground_truth": "1981 World Rowing Championships",
+      "prediction_v1": "Riema Juhani Karppinen won a silver medal at one of the Summer Olympic events held outside Munich, Germany, during his participation in either 1984, 1988, or 1992. However, the specific year and event cannot be confirmed from the available information. Further verification is needed to pinpoint the exact details of his silver medal win.",
+      "prediction_v2": "1981 World Rowing Championships in Manchester, UK",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.7272727272727273
+    }, #
+    {
+      "id": "5a71443f5542994082a3e727",
+      "question": "is gasherbrum ii or nuptse closest to the tallest mountain in the world?",
+      "ground_truth": "It lies two kilometres WSW of Mount Everest.",
+      "prediction_v1": "Nuptse",
+      "prediction_v2": "Nuptse is closer to Mount Everest than Gasherbrum II.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.11764705882352941
+    }, #
+    {
+      "id": "5a71474b5542994082a3e74f",
+      "question": "what was triggered by the resignation of conservative mp stephen phillips on 4 november 2016 and was when caroline johnson became a member of parliament?",
+      "ground_truth": "The Sleaford and North Hykeham by-election",
+      "prediction_v1": "The resignation of Conservative MP Stephen Phillips on 4 November 2016 triggered the Sleaford and North Hykeham by-election, which was held on 8 December 2016, and Caroline Johnson became a Member of Parliament after winning this by-election.",
+      "prediction_v2": "The resignation of Conservative MP Stephen Phillips on 4 November 2016 triggered the Sleaford and North Hykeham by-election, and Caroline Johnson became a member of Parliament on 8 December 2016.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.23255813953488372,
+      "f1_v2": 0.2777777777777778
+    },
+    {
+      "id": "5a7147fd5542994082a3e758",
+      "question": "when was the king that started coin production in copenhagen born?",
+      "ground_truth": "2 February 1455",
+      "prediction_v1": "2 February 1455",
+      "prediction_v2": "February 2, 1455",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.6666666666666666
+    },
+    {
+      "id": "5a714bb35542994082a3e78f",
+      "question": "which composer was born later, gaetano donizetti or william walton?",
+      "ground_truth": "William Turner Walton",
+      "prediction_v1": "William Walton",
+      "prediction_v2": "William Walton was born later than Gaetano Donizetti.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.8,
+      "f1_v2": 0.36363636363636365
+    },
+    {
+      "id": "5a714de95542994082a3e7a8",
+      "question": "alexander young, also known as george alexander, is the uncle to which scottish musician who replaced malcolm young in the band ac/dc in 2014?",
+      "ground_truth": "Stephen Crawford Young",
+      "prediction_v1": "The original question contains an inaccurate premise. Alexander Young (George Alexander) is not the uncle of the musician who replaced Malcolm Young in AC/DC in 2014. The musician who replaced Malcolm Young is Stephen Crawford Young (Stevie Young), and Alexander Young is Stevie Young’s brother, not his uncle.",
+      "prediction_v2": "Stephen Young",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.11764705882352941,
+      "f1_v2": 0.8
+    },
+    {
+      "id": "5a714f6f5542994082a3e7b3",
+      "question": "how many people live in the county serviced by the collier area transit system?",
+      "ground_truth": "321,520",
+      "prediction_v1": "The Collier Area Transit System serves Collier County, where the population was 321,520 as of the 2010 census. No current population data is available.",
+      "prediction_v2": "The Collier Area Transit System serves Collier County, Florida, which had a population of 321,520 as of the 2010 census. Current population data is unavailable.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.07999999999999999,
+      "f1_v2": 0.07692307692307693
+    },
+    {
+      "id": "5a7150c75542994082a3e7be",
+      "question": "what is the capacity of the stadium that hosts games of the team that was coached by barry switzer in 1981?",
+      "ground_truth": "86,112",
+      "prediction_v1": "86,112",
+      "prediction_v2": "Barry Switzer coached the Oklahoma Sooners football team in 1981, and their home games were hosted at Oklahoma Memorial Stadium (now Gaylord Family Oklahoma Memorial Stadium). The stadium's seating capacity in 1981 is not recorded in the available data. While the current capacity is 86,112 (as of 2015), the exact capacity in 1981 cannot be definitively stated based on the information provided.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.031746031746031744
+    },
+    {
+      "id": "5a71646e5542994082a3e80e",
+      "question": "what is the proper name for the steroid used by the retired british track sprinter who is one of the fastest european sprinters in the history of athletics?",
+      "ground_truth": "Tetrahydrogestrinone",
+      "prediction_v1": "tetrahydrogestrinone (THG)",
+      "prediction_v2": "tetrahydrogestrinone (THG)\n\\]",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.6666666666666666,
+      "f1_v2": 0.5
+    },
+    {
+      "id": "5a71674f5542994082a3e819",
+      "question": "when was the magazine sam duckworth got his name get cape. wear cape. fly from launched?",
+      "ground_truth": "January 2004",
+      "prediction_v1": "January 2004",
+      "prediction_v2": "January 2003",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.5
+    },#
+    {
+      "id": "5a716ec85542994082a3e82d",
+      "question": "which movie was filmed first \"the guest\" or \"you're next\"?",
+      "ground_truth": "You're Next",
+      "prediction_v1": "You're Next",
+      "prediction_v2": "\"You're Next\" was filmed first.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.0
+    },#
+    {
+      "id": "5a717d4c5542994082a3e854",
+      "question": "who has written more than 300 papers, semyon aranovich gershgorin or pavel alexandrov?",
+      "ground_truth": "Pavel Sergeyevich Alexandrov",
+      "prediction_v1": "Pavel Alexandrov",
+      "prediction_v2": "Neither",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.8,
+      "f1_v2": 0.0
+    },#
+    {
+      "id": "5a7182b65542994082a3e85b",
+      "question": "how many european jews died in the catastrophe of which eva hayman is a survivor?",
+      "ground_truth": "six million",
+      "prediction_v1": "Approximately six million European Jews died in the Holocaust, the catastrophe from which Eva Hayman survived.",
+      "prediction_v2": "Approximately 6 million European Jews died in the Holocaust, the catastrophe from which Eva Hayman survived.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.2222222222222222,
+      "f1_v2": 0.1111111111111111
+    },
+    {
+      "id": "5a7195a05542994082a3e881",
+      "question": "in what year did the israeli presidential elections take place after the resignation of the seventh president of israel?",
+      "ground_truth": "2000",
+      "prediction_v1": "2000",
+      "prediction_v2": "July 2000",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.6666666666666666
+    },#
+    {
+      "id": "5a719bf25542994082a3e891",
+      "question": "the astronomer who formulated the theory of stellar nucleosynthesis co-authored what landmark paper?",
+      "ground_truth": "BFH",
+      "prediction_v1": "Fred Hoyle co-authored the \"BFH paper\" (Bethe, Fowler, Hoyle).",
+      "prediction_v2": "\"Synthesis of the Elements in Stars\" (BFH paper)",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a72120e55429971e9dc923f",
+      "question": "what is the name of the light rail station on the max blue line 7 mi west of portland, oregon?",
+      "ground_truth": "Beaverton Creek",
+      "prediction_v1": "Beaverton Creek Station",
+      "prediction_v2": "Quatama Max Station",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.8,
+      "f1_v2": 0.0
+    },#
+    {
+      "id": "5a72125055429971e9dc9241",
+      "question": "what is the scientific name of the true creature featured in \"creature from the black lagoon?",
+      "ground_truth": "Eucritta melanolimnetes",
+      "prediction_v1": "The creature from *Creature from the Black Lagoon* is fictional and does not have a scientific name. It is commonly referred to as the \"Gill-man.\"",
+      "prediction_v2": "The creature from *Creature from the Black Lagoon* is a fictional creation with no confirmed scientific name or real-animal basis.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a7217f255429971e9dc9260",
+      "question": "which member of parliament for macclesfield was married to jane ann winterton?",
+      "ground_truth": "Sir Nicholas Raymond Winterton",
+      "prediction_v1": "Sir Nicholas Raymond Winterton",
+      "prediction_v2": "Sir Nicholas Winterton",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.8571428571428571
+    },#
+    {
+      "id": "5a721a7655429971e9dc9271",
+      "question": "what actor from the show murphy brown also had a role in a show with fellow actor steve howey? ",
+      "ground_truth": "Christopher Rich",
+      "prediction_v1": "John 'Johnny' Brown",
+      "prediction_v2": "Jay Thomas",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a721bbc55429971e9dc9279",
+      "question": "which grammy nominated album was created by a band whose members include john bowman?",
+      "ground_truth": "Nature's Symphony in 432",
+      "prediction_v1": "Nature's Symphony in 432",
+      "prediction_v2": "The Isaacs (roots gospel album)",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a7220f055429971e9dc92ac",
+      "question": "what was the volvo s70 essentially modeled after and was the first all wheel drive volvo?",
+      "ground_truth": "Volvo 850",
+      "prediction_v1": "The Volvo S70 was modeled after the Volvo 850 and was not the first all-wheel-drive Volvo; the Volvo 850 was the first AWD Volvo.",
+      "prediction_v2": "The Volvo S70 was essentially modeled after the Volvo 850 and was not the first all-wheel-drive Volvo. The first all-wheel-drive Volvo was the Volvo 850.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.15384615384615385,
+      "f1_v2": 0.14814814814814814
+    },
+    {
+      "id": "5a7222b155429971e9dc92c4",
+      "question": "which film, the happiest millionaire or mars needs moms, was created first?",
+      "ground_truth": "The Happiest Millionaire",
+      "prediction_v1": "The Happiest Millionaire",
+      "prediction_v2": "The Happiest Millionaire was created first.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.6666666666666666
+    },
+    {
+      "id": "5a72239a55429971e9dc92cf",
+      "question": "who was soldier archie a. peck's commanding officer during the meuse-argonne offensive?",
+      "ground_truth": "Major Charles White Whittlesey",
+      "prediction_v1": "Based on the available information, Archie A. Peck was a private in the US 77th Division during the Meuse-Argonne Offensive, where he earned the Medal of Honor. However, the commanding officer of the US 77th Division during this period is not explicitly identified in the provided records. While General John J. Pershing was the commander of the American Expeditionary Forces (AEF), he was not the divisional commander of the 77th Division. Further research into historical records would be required to determine the specific commanding officer of the 77th Division during the Meuse-Argonne Offensive.",
+      "prediction_v2": "Major General Robert Alexander",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.25
+    },
+    {
+      "id": "5a722a6855429971e9dc9320",
+      "question": "what is the character's name for which anna leonidovna kovalchuk won a prize in the legal festival \"law and society\"?",
+      "ground_truth": "Chief Detective Maria Shvetsova",
+      "prediction_v1": "Maria Shvetsova",
+      "prediction_v2": "good character",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.6666666666666666,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a722c2255429971e9dc932c",
+      "question": "what type of development, currently existing in pasay, is currently being considered for malls such as one in m.a. roxas avenue in clark freeport, angeles city in pampanga philippines?",
+      "ground_truth": "SM Lifestyle Cities",
+      "prediction_v1": "Large-scale, mixed-use development",
+      "prediction_v2": "Large-scale commercial and mixed-use development",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a72429355429971e9dc9375",
+      "question": "what machine has the same name as another machine created by ludwig boltzmann?",
+      "ground_truth": "Boltzmann machine",
+      "prediction_v1": "Boltzmann machine",
+      "prediction_v2": "No other machine has the same name as another machine created by Ludwig Boltzmann.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.125
+    },
+    {
+      "id": "5a7248665542990c210a40b1",
+      "question": "what is the colloquial name of the professional football team in which striker frederico chaves guedos played? ",
+      "ground_truth": "Rooster",
+      "prediction_v1": "Galo",
+      "prediction_v2": "Atlético",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a7249b85542990c210a40b9",
+      "question": "osireion is located to the rear of the temple named after which new kingdom nineteenth dynasty of egypt pharaoh?",
+      "ground_truth": "Seti I",
+      "prediction_v1": "Seti I",
+      "prediction_v2": "Temple of Seti I at Abydos",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.5
+    },
+    {
+      "id": "5a724a2b5542990c210a40bc",
+      "question": "what team plays within the big 12 conference and has kevin bookout playing for them?",
+      "ground_truth": "Oklahoma Sooners men's basketball",
+      "prediction_v1": "Oklahoma Sooners",
+      "prediction_v2": "No team in the Big 12 conference currently has Kevin Bookout playing for them.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.6666666666666666,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a724dc25542990c210a40df",
+      "question": "which was released later, the strongest man in the world, or roving mars?",
+      "ground_truth": "Roving Mars",
+      "prediction_v1": "Based on the available information, *The Strongest Man in the World* was released in **1975**, while the release year of *Roving Mars* could not be determined. Therefore, it is not possible to definitively state which was released later without additional data on *Roving Mars*. Further investigation is required to resolve the question.",
+      "prediction_v2": "Roving Mars",
+      "em_v1": 0,
+      "em_v2": 1,
+      "f1_v1": 0.0,
+      "f1_v2": 1.0
+    },
+    {
+      "id": "5a72634d5542997f82783994",
+      "question": "what city will host the event in which marie gisele eleme asse won twoo medals in 2017",
+      "ground_truth": "Abidjan",
+      "prediction_v1": "Abidjan",
+      "prediction_v2": "Abidjan, Ivory Coast",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a72644b5542997f8278399a",
+      "question": "what professional footballer who plays for championship side cardiff city was part of the 2009 houphouët-boigny stampede?",
+      "ground_truth": "Souleymane \"Sol\" Bamba",
+      "prediction_v1": "Souleymane Bamba",
+      "prediction_v2": "No Cardiff City player was confirmed to be part of the 2009 Houphouët-Boigny stampede.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.8,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a7264ed5542990c210a411a",
+      "question": "what was the slogan  that came about from the idea of lebensraum which had its most extreme form supported by the nazi party until the end of world war ii?",
+      "ground_truth": "Blood and soil",
+      "prediction_v1": "blood and soil",
+      "prediction_v2": "Blood and soil",
+      "em_v1": 1,
+      "em_v2": 1,
+      "f1_v1": 1.0,
+      "f1_v2": 1.0
+    },
+    {
+      "id": "5a7265815542990c210a411b",
+      "question": "what is the call sign of the airline that operates the flight with united express flight 3411 incident?",
+      "ground_truth": "Brickyard",
+      "prediction_v1": "Brickyard",
+      "prediction_v2": "brickyard",
+      "em_v1": 1,
+      "em_v2": 1,
+      "f1_v1": 1.0,
+      "f1_v2": 1.0
+    },
+    {
+      "id": "5a7265825542997f827839a3",
+      "question": "what olympic medal did the opponent of crawford ashley for the world boxing association (wba) world super middleweight title win in 1984?",
+      "ground_truth": "a silver medal",
+      "prediction_v1": "Michael Nunn was Crawford Ashley's opponent for the WBA world super middleweight title. However, there is no available information confirming whether Michael Nunn competed in the 1984 Olympics or won an Olympic medal. The question cannot be definitively answered with the current data.",
+      "prediction_v2": "No Olympic medal",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.3333333333333333
+    },
+    {
+      "id": "5a7268235542992359bc3081",
+      "question": "what unit of the air national guard is located at a base that was home to the 509th bomb wing flying the general dynamics fb-111a?",
+      "ground_truth": "133d Air Refueling Squadron",
+      "prediction_v1": "133d Air Refueling Squadron",
+      "prediction_v2": "The 133d Air Refueling Squadron",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.888888888888889
+    },
+    {
+      "id": "5a726b0f5542997f827839be",
+      "question": "who was born first, samantha cristoforetti or jean-loup chrétien",
+      "ground_truth": "Jean-Loup Jacques Marie Chrétien",
+      "prediction_v1": "Based on the available information, Samantha Cristoforetti was born in 1977, while Jean-Loup Chrétien's birth year remains undetermined. Therefore, it is impossible to determine who was born first with the current data. Further information about Jean-Loup Chrétien's birth year is needed to answer the question accurately.",
+      "prediction_v2": "Jean-Loup Chrétien was born first.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.04,
+      "f1_v2": 0.4444444444444445
+    },
+    {
+      "id": "5a7270395542992359bc30a8",
+      "question": "when was the city george consider hale was born in founded?",
+      "ground_truth": "in the 1830s",
+      "prediction_v1": "Based on the available information, George Ellery Hale was born in 1850, but his birthplace has not been definitively confirmed. While Kansas City, Missouri (founded in the 1830s and incorporated in 1850) has been suggested as a potential birthplace, this remains unverified. Therefore, the founding date of the city where Hale was born cannot be accurately determined with the current data. Additional information specifying his birthplace is needed to provide a conclusive answer.",
+      "prediction_v2": "1837",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.07894736842105263,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a7280105542994cef4bc2e4",
+      "question": "indie studio jumpship developed what puzzle-platform video game released in july 2010?",
+      "ground_truth": "Limbo",
+      "prediction_v1": "Based on the available information, there is no credible evidence that indie studio Jumpship developed a puzzle-platform video game released in July 2010. Known games by Jumpship, such as *Metrico* (August 2014) and *Fez* (scheduled for January 2015, postponed), were released after this date. Claims suggesting *Limbo* as a candidate are inconsistent with established facts, as *Limbo* was developed by Playdead. Therefore, the original question cannot be answered with the current data.",
+      "prediction_v2": "Somerville",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a72830e5542994cef4bc2f9",
+      "question": "where is the company that distributed xxxtentacion's single \"revenge\" based?",
+      "ground_truth": "San Francisco, California",
+      "prediction_v1": "San Francisco, California",
+      "prediction_v2": "San Francisco",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.4
+    },
+    {
+      "id": "5a7284c85542991f9a20c4c0",
+      "question": "what team is coached by former head college coach connie yori?",
+      "ground_truth": "Nebraska Cornhuskers women's basketball",
+      "prediction_v1": "No team",
+      "prediction_v2": "No current team confirmed",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a728dc65542992359bc30ef",
+      "question": "what fellow turkish footballer did darko kovačević form an offensive partnership with during his tenure at real sociedad?",
+      "ground_truth": "Nihat Kahveci",
+      "prediction_v1": "No evidence of a Turkish footballer partnering with Darko Kovačević at Real Sociedad.",
+      "prediction_v2": "Nihat Kahveci",
+      "em_v1": 0,
+      "em_v2": 1,
+      "f1_v1": 0.0,
+      "f1_v2": 1.0
+    },
+    {
+      "id": "5a728f015542991f9a20c4e4",
+      "question": "which star of zork was also the voice of pac-man?",
+      "ground_truth": "Martin Ingerman",
+      "prediction_v1": "Marty Ingels",
+      "prediction_v2": "No known connection exists between the \"star of Zork\" and the voice actor of Pac-Man.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a728f3c5542992359bc30f4",
+      "question": "which football club appeared in the 2015 fa community shield cup, as well as, the 2014–15 premier league championship?",
+      "ground_truth": "Chelsea",
+      "prediction_v1": "No club appeared in both events.",
+      "prediction_v2": "Chelsea",
+      "em_v1": 0,
+      "em_v2": 1,
+      "f1_v1": 0.0,
+      "f1_v2": 1.0
+    },
+    {
+      "id": "5a728f505542992359bc30f5",
+      "question": "gail matthius co-anchored the weekend update segment of \"saturday night live\" with the actor who played the villain nicholas andre in what movie?",
+      "ground_truth": "Dumb and Dumber",
+      "prediction_v1": "Dumb and Dumber",
+      "prediction_v2": "The information provided is insufficient to accurately answer the original question due to contradictions and inaccuracies in the discussion results. Specifically, the claim that Charles Rocket played Nicholas Andre in *Dumb and Dumber* is incorrect, and no reliable information links Charles Rocket to the character Nicholas Andre in any movie. Further clarification or correction of the original question is needed. \n\n[NEED_MORE_INFO]\n1. Confirmation of the correct character or movie associated with Charles Rocket.\n2. Verification of the original question's accuracy regarding Nicholas Andre and *Dumb and Dumber*.\n[/NEED_MORE_INFO]",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.02197802197802198
+    },
+    {
+      "id": "5a728f745542991f9a20c4e6",
+      "question": "which magazine was founded first, diva or elle?",
+      "ground_truth": "Elle",
+      "prediction_v1": "Elle",
+      "prediction_v2": "Elle was founded first.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.4
+    },
+    {
+      "id": "5a728fbd5542992359bc30f8",
+      "question": "who was convicted of murdering the director of schoolboy crush?",
+      "ground_truth": "Harlow Cuadra and Joseph Kerekes",
+      "prediction_v1": "Harlow Cuadra and Joseph Kerekes",
+      "prediction_v2": "Harlow Cuadra and Joseph Kerekes were convicted of murdering the director of Schoolboy Crush.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.5263157894736842
+    },
+    {
+      "id": "5a7291c35542991f9a20c4f4",
+      "question": "what movie was directed by harold ramis and stars bill  murray?",
+      "ground_truth": "Groundhog Day",
+      "prediction_v1": "Groundhog Day and Caddyshack",
+      "prediction_v2": "Ghostbusters, Ghostbusters II, Groundhog Day",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.6666666666666666,
+      "f1_v2": 0.5714285714285715
+    },
+    {
+      "id": "5a7293655542991f9a20c4ff",
+      "question": "what 1996 book was written by the founder of media matter for america?",
+      "ground_truth": "The Seduction of Hillary Rodham",
+      "prediction_v1": "The Real Anita Hill",
+      "prediction_v2": "No 1996 book by David Brock is confirmed.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.22222222222222224,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a72953b5542994cef4bc357",
+      "question": "what labor member of the house of representatives in the australian parliament was a member of the australian labor party australian young labor?",
+      "ground_truth": "Tony Burke",
+      "prediction_v1": "No current Labor MP is confirmed as an AYL member, but historical membership among MPs may have occurred.",
+      "prediction_v2": "Tony Burke",
+      "em_v1": 0,
+      "em_v2": 1,
+      "f1_v1": 0.0,
+      "f1_v2": 1.0
+    },
+    {
+      "id": "5a7299e75542991f9a20c524",
+      "question": "what movie was released at a later date, my dog tulip or monsters vs. aliens?",
+      "ground_truth": "Monsters vs. Aliens",
+      "prediction_v1": "Monsters vs. Aliens",
+      "prediction_v2": "Based on the available information, *Monsters vs. Aliens* was released in 2009, while the release date of *My Dog Tulip* is unknown. Without this critical piece of data, we cannot definitively determine which film was released later. However, a reasonable hypothesis is that *My Dog Tulip* was released after 2009, given its animated nature and the likely production timeline. To resolve this question conclusively, the release date of *My Dog Tulip* must be verified.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.025974025974025972
+    },
+    {
+      "id": "5a729cc25542991f9a20c532",
+      "question": "which author wrote about a woman captured by the symbionese liberation army?",
+      "ground_truth": "Paul Avery",
+      "prediction_v1": "Susan Choi",
+      "prediction_v2": "The woman captured by the Symbionese Liberation Army (SLA) was Patricia Campbell Hearst. While her abduction was a high-profile event, the existing discussion does not identify a specific author who wrote about her capture. Potential candidates such as journalist Paul Avery and SLA member James Kilgore are mentioned, but no confirmed writings about Hearst's capture are referenced. Further research may be needed to identify authors who documented this event.",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.05633802816901409
+    },
+    {
+      "id": "5a72a0be5542992359bc3143",
+      "question": "this work of literature _______ , known by its greek title oedipus tyrannus was argued by sigmund freud to be one of the greatest works of world literature in his 1928 article. ",
+      "ground_truth": "Oedipus Rex",
+      "prediction_v1": "Oedipus Tyrannus",
+      "prediction_v2": "Oedipus Rex",
+      "em_v1": 0,
+      "em_v2": 1,
+      "f1_v1": 0.5,
+      "f1_v2": 1.0
+    },
+    {
+      "id": "5a72a2935542991f9a20c546",
+      "question": "is velvetpark or shape magazine written more for a lesbian and queer-identified female readership?",
+      "ground_truth": "Velvetpark",
+      "prediction_v1": "Velvetpark",
+      "prediction_v2": "Velvetpark magazine is written more for a lesbian and queer-identified female readership.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.15384615384615385
+    }, #
+    {
+      "id": "5a72a47d55429901807daf1f",
+      "question": "arundel castle was damaged during a war between which two groups?",
+      "ground_truth": "Parliamentarians (\"Roundheads\") and Royalists (\"Cavaliers\")",
+      "prediction_v1": "Arundel Castle was damaged during the English Civil War between Parliamentarians (Roundheads) and Royalists (Cavaliers).",
+      "prediction_v2": "Parliamentarians (Roundheads) and Royalists (Cavaliers)",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.3,
+      "f1_v2": 0.6
+    },
+    {
+      "id": "5a72a9ab5542992359bc315a",
+      "question": "which north american tribe inhabited the banks of the winnipesaukee river and were also known as the pawtucket people?",
+      "ground_truth": "the Pennacook people",
+      "prediction_v1": "Winnipesaukee sub-tribe of the Pennacook (Pawtucket people)",
+      "prediction_v2": "Pennacook",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.4,
+      "f1_v2": 0.5
+    },
+    {
+      "id": "5a72aec45542994cef4bc3d7",
+      "question": "which author lived longer, nelson algren or nathanael west?",
+      "ground_truth": "Nelson Algren",
+      "prediction_v1": "Nelson Algren",
+      "prediction_v2": "Nelson Algren lived longer.",
+      "em_v1": 1,
+      "em_v2": 0,
+      "f1_v1": 1.0,
+      "f1_v2": 0.6666666666666666
+    }, #
+    {
+      "id": "5a72b3335542994cef4bc3dc",
+      "question": "what party campaigned for the irish home rule movement?",
+      "ground_truth": "The Home Rule League",
+      "prediction_v1": "The Home Rule League and the Irish Parliamentary Party (IPP)",
+      "prediction_v2": "Irish Parliamentary Party (IPP)",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.5714285714285715,
+      "f1_v2": 0.0
+    },
+    {
+      "id": "5a72ba165542992359bc318a",
+      "question": "who runs the website surpassed by both baidu baike and hudong.com?",
+      "ground_truth": "Wikimedia Foundation",
+      "prediction_v1": "Based on the discussion records, the information provided does not identify a website that was surpassed by both Baidu Baike and Hudong.com. Instead, the summaries consistently describe Hudong.com as the entity that surpassed Baidu Baike and Chinese Wikipedia. Additionally, the operator of Hudong.com is not specified in the available data. Therefore, the original question cannot be answered with the current information.",
+      "prediction_v2": "Pan Haidong",
+      "em_v1": 0,
+      "em_v2": 0,
+      "f1_v1": 0.0,
+      "f1_v2": 0.0
+    }
+  ]
+}
