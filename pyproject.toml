@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pro-rag"
+version = "0.1.0"
+description = "Proposition-network retrieval augmented generation for multi-hop question answering"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "bm25s>=0.2",
+  "networkx>=3.0",
+  "numpy>=1.24",
+  "openai>=1.0",
+  "PyStemmer>=2.2",
+  "tqdm>=4.66",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8.0"]
+units = ["transformers>=4.40"]
+
+[project.scripts]
+prorag = "prorag.cli:main"
+prorag-ablation = "prorag.experiments.full_pipeline_ablation:main"
+pnet-ablation = "prorag.experiments.run_pnet_ablation:main"
+prepare-units = "prorag.experiments.prepare_units:main"
+unit-experiment = "prorag.experiments.run_unit_experiment:main"
+prepare-data = "prorag.preprocessing.prepare_dataset:main"
+prepare-pnet = "prorag.preprocessing.workflow:main"
+build-pnet = "prorag.preprocessing.pnet_builder:main"
+add-pnet-embeddings = "prorag.preprocessing.add_embeddings:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
